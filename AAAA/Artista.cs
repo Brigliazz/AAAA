@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace AAAA
 {
-    internal class Enemy
-    {   
-        public int x; public int y;
+    internal class Artista
+    {
     }
 }
